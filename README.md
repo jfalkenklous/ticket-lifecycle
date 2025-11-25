@@ -73,49 +73,81 @@ Scroll to the top of the ticket. Select where it says 'Open' next to Status. Hit
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1095" height="933" alt="image" src="https://github.com/user-attachments/assets/d76ea459-5458-4e40-ba52-bc8086a85737" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Go back to the end-user portal to create a new ticket. Select 'Open a New Ticket'. Add in information to the fields, similar to what is shown in the image above and hit 'Create Ticket'. 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1214" height="912" alt="image" src="https://github.com/user-attachments/assets/e2e142fb-8b9c-4912-b4ab-70733ad540a0" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Login to the agent panel as John (Logout as Jane if needed). Click into the ticket that was created by Ken. Scroll up and set the SLA Plan to 'Sev-C'. Set the Assigned To field to 'John Doe'. 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1315" height="870" alt="image" src="https://github.com/user-attachments/assets/7e21d42b-b1b6-4ffa-a5d6-1c1408a9485c" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Scroll down on the ticket, add a response to the ticket, similar to what is shown in the image above, then hit 'Post Reply'. 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1219" height="830" alt="image" src="https://github.com/user-attachments/assets/a0cb8861-cecc-44a3-8c78-df2e70b788e0" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Pretend your analysis of the ticket is now complete. Post a new response in the ticket, similar to what is shown in the image above, then hit 'Post Reply'. 
+</p>
+<br />
+
+<p>
+<img width="1658" height="870" alt="image" src="https://github.com/user-attachments/assets/e68351ad-e677-496e-8291-6fa0b716e43f" />
+</p>
+<p>
+Scroll up on the ticket. Click on 'Open' next to Status. Select 'Resolved' and then hit 'Close'. 
+</p>
+<br />
+
+<p>
+<img width="1020" height="962" alt="image" src="https://github.com/user-attachments/assets/b3184842-4dc3-4dbc-81d2-d9f340b4d4fa" />
+</p>
+<p>
+Go back to the end-user portal to create a new ticket. Select 'Open a New Ticket'. Fill in the information for the ticket, similar to what is shown in the image above. Hit 'Create Ticket'.
+</p>
+<br />
+
+<p>
+<img width="1575" height="587" alt="image" src="https://github.com/user-attachments/assets/409b6391-da8b-4a05-bbef-523045385ef5" />
+</p>
+<p>
+Go back to the Agent Panel (you should be logged in as John). You may need to refresh the page to see the newly created ticket. Click into the ticket. 
+</p>
+<br />
+
+<p>
+<img width="1097" height="867" alt="image" src="https://github.com/user-attachments/assets/86856043-bc0a-4145-8a96-767230a6b4e9" />
+</p>
+<p>
+Update the Priority field to 'Emergency'. Update the SLA Plan to 'Sev-B'. Update the Assigned To field to 'John Doe'.  
+</p>
+<br />
+
+<p>
+<img width="1468" height="911" alt="image" src="https://github.com/user-attachments/assets/01323705-cfc4-4837-9527-5afa001d4a11" />
+</p>
+<p>
+Scroll down on the ticket, add a response, similar to what is shown in the image above. Then hit, 'Post Reply'. Scroll up and click 'Open' next to status, select 'Resolved' and then hit 'Close'. 
+</p>
+<br />
+
+<p>
+<img width="1309" height="547" alt="image" src="https://github.com/user-attachments/assets/c6804a31-749e-4614-8143-381d60358324" />
+</p>
+<p>
+Notice all tickets created by Ken and Karen have been resolved. 
 </p>
 <br />
